@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="'Inter','Helvetica Neue',Arial,'Hiragino Sans','Noto Sans JP',sans-serif">
+<defs><radialGradient id="glow" cx="50%" cy="38%" r="60%"><stop offset="0" stop-color="#F5533D" stop-opacity="0.14"/><stop offset="1" stop-color="#F5533D" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#F5533D"/><stop offset="1" stop-color="#0866FF"/></linearGradient></defs>
+<rect width="1280" height="720" fill="#F5F6F7"/><rect width="1280" height="720" fill="url(#glow)"/>
+<g fill="none" stroke="#DADDE1" stroke-width="1.2"><circle cx="640" cy="640" r="260"/><circle cx="640" cy="640" r="380"/><circle cx="640" cy="640" r="500"/></g>
+<g transform="translate(200,190) scale(1.0)" style="color:#1C1E21">
+<g fill="currentColor" fill-rule="evenodd">
+ <g transform="translate(40,20)"><path d="M22,18 L37,18 L16,96 L1,96 Z"/><path d="M45,18 L60,18 L81,96 L66,96 Z"/><path d="M68,4 H94 V30 H68 Z M76,12 V22 H86 V12 Z"/></g>
+ <g transform="translate(144,20)"><path d="M52,8 L72,8 L22,58 L2,58 Z"/><path d="M36,32 H50 V98 H36 Z"/></g>
+ <g transform="translate(236,20)"><path d="M4,12 H72 V94 H4 Z M18,26 V80 H58 V26 Z"/></g>
+ <g transform="translate(328,20)"><path d="M4,12 H70 V94 H4 V80 H56 V26 H4 Z"/></g>
+ <g transform="translate(418,20)"><path d="M22,18 L37,18 L16,96 L1,96 Z"/><path d="M45,18 L60,18 L81,96 L66,96 Z"/><path d="M68,4 H94 V30 H68 Z M76,12 V22 H86 V12 Z"/></g>
+ <g transform="translate(522,20)"><path d="M52,8 L72,8 L22,58 L2,58 Z"/><path d="M36,32 H50 V98 H36 Z"/></g>
+ <g transform="translate(614,20)"><path d="M4,12 H72 V94 H4 Z M18,26 V80 H58 V26 Z"/></g>
+ <g transform="translate(702,20)"><path d="M6,40 H17 V58 H6 Z"/><path d="M23,40 H34 V58 H23 Z"/><path d="M42,40 L56,40 L28,96 L14,96 Z"/></g>
+ <g transform="translate(770,20)"><path d="M16,8 H30 V98 H16 Z"/><path d="M30,38 L64,58 L64,74 L30,54 Z"/></g>
+</g></g>
+<rect x="560" y="352" width="160" height="5" rx="2.5" fill="url(#bar)"/>
+<text x="640" y="418" text-anchor="middle" font-size="44" font-weight="700" fill="#1C1E21" letter-spacing="1">PyroCopilot</text>
+<text x="640" y="466" text-anchor="middle" font-size="22" fill="#65676B">3D Earth Thermal &amp; Swidden Intelligence with Multi-Perspective LLM Reasoning</text>
+<rect x="376" y="520" width="126" height="30" rx="15" fill="#F5533D" fill-opacity="0.1"/><text x="439.0" y="540" text-anchor="middle" font-size="13" font-weight="600" fill="#F5533D">NASA FIRMS</text><rect x="514" y="520" width="134" height="30" rx="15" fill="#0866FF" fill-opacity="0.1"/><text x="581.0" y="540" text-anchor="middle" font-size="13" font-weight="600" fill="#0866FF">NASA POWER</text><rect x="660" y="520" width="146" height="30" rx="15" fill="#7B5CFA" fill-opacity="0.1"/><text x="733.0" y="540" text-anchor="middle" font-size="13" font-weight="600" fill="#7B5CFA">Gemini Copilot</text><rect x="818" y="520" width="110" height="30" rx="15" fill="#31A24C" fill-opacity="0.1"/><text x="873.0" y="540" text-anchor="middle" font-size="13" font-weight="600" fill="#31A24C">7-Day Risk</text>
+<text x="640" y="650" text-anchor="middle" font-size="14" fill="#65676B">NASA Space Apps Challenge  ·  Project Overview (7 Slides)</text>
+</svg>
